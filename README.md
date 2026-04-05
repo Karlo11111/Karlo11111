@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 Software engineering student @ TVZ, Zagreb  <br>- 💼 Former software dev intern @ Cognism  <br>- 💻 Love building full-stack apps in C#, .NET & Flutter  <br>- 🏆 3rd place at Croatian national HS software development competition with the project Odlikaš  <br>- 🧩 CTF & security enthusiast, always learning something new
+- 🎓 Software engineering student @ TVZ, Zagreb  <br>- 💼 Former software dev intern @ Cognism  <br>- 💻 Love building full-stack apps in C#, .NET, Next.JS & Flutter  <br>- 🏆 3rd place at Croatian national HS software development competition with the project Odlikaš  <br>- 🧩 CTF & security enthusiast, always learning something new
 
 
 
